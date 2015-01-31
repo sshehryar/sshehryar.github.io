@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Ali Shehryar
 locale: en_US
-description: Describe your website here.
+description: Stoic | Artificer | Life Long Learner
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -31,15 +31,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ali Shehryar
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: https://github.com/sshehryar
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: https://pk.linkedin.com/in/ashehryar
   instagram: #username
   flickr: #username
   tumblr: #username
@@ -48,5 +48,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
