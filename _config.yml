@@ -5,8 +5,8 @@ locale: en_US
 description: Stoic | Artificer | Life Long Learner
 logo: site-logo.png
 search: true
-url: http://localhost:4000
-
+#url: http://localhost:4000
+url: http://sshehryar.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
