@@ -1,26 +1,41 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: Hello, World!
+excerpt: "About me stuff is written here"
+modified: 2015-02-01T14:09:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about-me-panorama.png
+  #credit:
+  #creditlink: http://someurl.com/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I'm **Ali Shehryar**, an **Engineer** and **Developer** from Pakistan. I enjoy *stoicism*, *self-quantification*, *philosophy* and *making things*. Currently I'm working as an **Embedded Linux Engineer** and when I'm not working, I can be found either working out, reading or playing [**Call of Duty**](www.callofduty.com).
 
-## So Simple Theme is all about:
+<!---So you're in my about me source. Good for you! Since Github markdown is
+ used refer to it's documentation for syntax related stuff--->
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## I Admire ...
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+<a markdown="0" href="https://isocpp.org" class="btn">C/C++</a>
+<a markdown="0" href="https://github/torvalds/linux" class="btn">linux</a>
+<a markdown="0" href="http://quantifiedself.com" class="btn">Quantified Self</a>
+<a markdown="0" href="http://raspberrypi.org" class="btn">Raspberry Pi</a>
+<a markdown="0" href="http://makezine.com" class="btn">Makezine</a>
+<a markdown="0" href="http://arduino.cc" class="btn">Arduino</a>
+<a markdown="0" href="http://nodejs.org" class="btn">Node</a>
+<a markdown="0" href="https://www.ruby-lang.org/" class="btn">Ruby</a>
+<a markdown="0" href="https://github.com/rails/rails" class="btn">Rails</a>
+<a markdown="0" href="http://zenhabits.net" class="btn">Zen Habits</a>
+<a markdown="0" href="http://http://philosophyforlife.org/philosophies-for-life/stoics/" class="btn">Stoicism</a>
+<a markdown="0" class="btn">Sleeping and Other Random Acts of Procrastination</a>
+<a markdown="0" class="btn">Minimalism</a>
+<a markdown="0" class="btn">Circuit Design</a>
+<a markdown="0" class="btn">Internet of Things</a>
+<a markdown="0" class="btn">Overthinking Things</a>
+<a markdown="0" class="btn">Risk Analysis</a>
+<a markdown="0" class="btn">Microcontrollers & Microprocessors</a>
+<a markdown="0" class="btn">Modern Warfare (1,2,3, Advanced Warfare and any future release!)</a>
+<a markdown="0" class="btn">History</a>
+<a markdown="0" class="btn">Military History</a>
 
-[^1]: Example: *domain.com/category-name/post-title*
+<!---[^1]: Example: *domain.com/category-name/post-title*--->
