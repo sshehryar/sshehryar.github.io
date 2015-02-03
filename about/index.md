@@ -34,7 +34,7 @@ I'm **Ali Shehryar**, an **Engineer** and **Developer** from Pakistan. I enjoy *
 <a markdown="0" class="btn">Overthinking Things</a>
 <a markdown="0" class="btn">Risk Analysis</a>
 <a markdown="0" class="btn">Microcontrollers & Microprocessors</a>
-<a markdown="0" href="https://en.wikipedia.org/wiki/Modern_warfare" class="btn">Modern Strategy & Warfare</a>
+<a markdown="0" class="btn">Modern Warfare (1,2,3, Advanced Warfare and any future release!)</a>
 <a markdown="0" class="btn">History</a>
 <a markdown="0" class="btn">Military History</a>
 
