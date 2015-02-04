@@ -6,19 +6,17 @@ search_omit: true
 ---
 
 
-<form action="//formspree.io/ali@sruplex.com" method="POST">
-    <div>
+<form action="//formspree.io/you@email.com" method="post">
+
         <label for="name">Name:</label>
-        <input type="text" id="name" />
-    </div>
-    <div>
+        <input type="text" id="name" placeholder ="Name"/>
+
         <label for="mail">E-mail:</label>
-        <input type="email" id="_replyto" />
-    </div>
-    <div>
+        <input type="email" id="replyto" placeholder="Email">
+
         <label for="msg">Message:</label>
         <textarea id="msg"></textarea>
-    </div>
 
-    <input type="submit" value="Send">
+        <input type="submit" value="Send" class="btn">
+
 </form>
