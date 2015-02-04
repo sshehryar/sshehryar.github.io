@@ -6,8 +6,9 @@
 
 - title: Resume
   url: /resume/
-- title: Articles
-  url: /articles/
+
+#- title: Articles
+#  url: /articles/
 
 - title: Blog
   url: /blog/
@@ -17,4 +18,3 @@
 
 - title: Contact
   url: /contact/
-  

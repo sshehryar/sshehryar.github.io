@@ -6,7 +6,7 @@ search_omit: true
 ---
 
 
-<form action="//formspree.io/ali@sruplex.com" >
+<form action="//formspree.io/ali@sruplex.com" method="POST">
     <div>
         <label for="name">Name:</label>
         <input type="text" id="name" />
