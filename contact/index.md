@@ -36,18 +36,12 @@ search_omit: true
 <div class="error-message" id="408903755_errorMessage"></div>
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
-<label class="ss-q-item-label" for="entry_1346804538"><div class="ss-q-title">Message
+<label for="entry_1346804538">Message</label>
 <div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
 <textarea name="entry.1346804538" rows="8" cols="0" class="ss-q-long" id="entry_1346804538" dir="auto" aria-label="Message   " aria-required="true" required=""></textarea>
 <div class="error-message" id="2108719240_errorMessage"></div>
-<input type="hidden" name="draftResponse" value="[,,&quot;4548281742021987359&quot;]
-">
+<input type="hidden" name="draftResponse" value="[,,&quot;4548281742021987359&quot;]">
 <input type="hidden" name="pageHistory" value="0">
-
-
 <input type="hidden" name="fbzx" value="4548281742021987359">
-
-<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-<input type="submit" name="submit" value="Submit">
-
-</tr></tbody></table></div></ol></form>
+<div><input type="submit" name="submit" value="Submit" class = "btn"></div>
+</form>
