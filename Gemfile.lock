@@ -144,5 +144,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-sitemap
+  nokogiri
   octopress (~> 3.0.0.rc.12)
   wdm (>= 0.1.0)
