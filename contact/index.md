@@ -15,7 +15,12 @@ search_omit: true
   <input type="submit" name="submit message" value="Send">
 
 </form> -->
-<form action="https://docs.google.com/forms/d/1LbUuStn84oNr3180027EcFEZWXOy22h9r_v7kh4hgfo/formResponse" method="POST">
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe"
+style="display:none;" onload="if(submitted)
+{window.location='thanks/thank_you.md';}"></iframe>
+<form action="https://docs.google.com/forms/d/1LbUuStn84oNr3180027EcFEZWXOy22h9r_v7kh4hgfo/formResponse" method="post"
+target="hidden_iframe" onsubmit="submitted=true;">
 <div class="ss-form-question errorbox-good" role="listitem">
 <div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
 <label class="ss-q-item-label" for="entry_1808429681"><div class="ss-q-title">Name
